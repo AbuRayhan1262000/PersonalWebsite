@@ -377,7 +377,7 @@ to{
 /*Contact section starts*/
 .Contact-Section{
     padding:1% 7%;
-    background:#39a4ac;
+    background-color:#39a4ac;
     text-align:center;
     /*height:600px;*/
 }
@@ -465,6 +465,7 @@ to{
     padding:20px;
     text-align:center;
     font-size:0.8rem;
+    
  
 }
 .footer .footer-menu a{
@@ -472,6 +473,7 @@ display:;
 margin:15 0;
 font-size:1rem;
 transition:all linear 0.4s;
+
 }
 .footer .footer-menu a:hover{
     color: #39a4ac;
